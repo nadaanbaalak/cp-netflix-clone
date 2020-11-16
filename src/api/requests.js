@@ -1,4 +1,4 @@
-const API_KEY = "5b2abb97369cb9c780d484bbc3a3aa71";
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 //const fetchTrending = (media_type,duration)=>{}
 
